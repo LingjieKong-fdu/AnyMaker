@@ -27,7 +27,7 @@
 AnyMaker consists of three crucial ID processing modules: General ID Extraction Module, Dual-Level ID Injection Module, ID-Aware Decoupling Module.
 
 <p align="center">
-  <img src="https://github.com/kongkong12345/AnyMaker/blob/main/fig/method1.png?raw=true" width="90%">
+  <img src="https://github.com/kongkong12345/AnyMaker/blob/main/fig/method1.png?raw=true" width="97%">
 </p>
 
 ---
