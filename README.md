@@ -50,7 +50,7 @@ To promot the research of the general object customization, we construct the fir
 The AnyMaker exhibits outstanding capabilities of high-quality customization for general objects, and even beat task-specialized methods in the specific domains, such as human customization and virtual try-on.
 
 <p align="center">
-  <img src="https://github.com/kongkong12345/AnyMaker/blob/main/fig/compare.png?raw=true" width="90%">
+  <img src="https://github.com/kongkong12345/AnyMaker/blob/main/fig/compare.png?raw=true" width="80%">
 </p>
 
 ---
