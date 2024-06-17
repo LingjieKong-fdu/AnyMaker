@@ -55,15 +55,7 @@ The AnyMaker exhibits outstanding capabilities of high-quality customization for
 
 ---
 
-###  **Examples:**
 
-The AnyMaker has desirable performance on diverse customization applications, such as realistic human customization, cartoon character customization, ID mixing, story generation, virtual try-on, etc.
-
-<p align="center">
-  <img src="https://github.com/kongkong12345/AnyMaker/blob/main/fig/idconsistent.png?raw=true" width="90%">
-</p>
-
----
 
 
 </div>
@@ -76,4 +68,5 @@ Codes and dataset will be released soon!
 If you find AnyMaker useful for your research and applications, please cite using this BibTeX:
 
 ```BibTeX
-xxx
+Updating
+        Will update the bibtext after arxiv submission.
