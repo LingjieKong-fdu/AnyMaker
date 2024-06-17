@@ -1,6 +1,6 @@
 <div align="center">
   
-# AnyMaker: Zero-shot General Object Customization via Decoupled Dual-Level ID Injection 
+## AnyMaker: Zero-shot General Object Customization via Decoupled Dual-Level ID Injection 
 
 <p align="center">
   <img src="https://github.com/kongkong12345/AnyMaker/blob/main/fig/diverse_applications.png?raw=true" width="90%">
