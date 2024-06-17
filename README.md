@@ -25,7 +25,7 @@
 
 ---
 
-###  **Various Applications:**
+###  **Examples:**
 
 The AnyMaker has desirable performance on diverse customization applications, such as realistic human customization, cartoon character customization, ID mixing, story generation, virtual try-on, etc.
 
