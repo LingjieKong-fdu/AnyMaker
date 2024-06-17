@@ -60,11 +60,11 @@ The AnyMaker exhibits outstanding capabilities of high-quality customization for
 
 </div>
 
-###  **Statement:**
+##  Statement:
 
 Codes and dataset will be released soon!
 
-# BibTeX
+## BibTeX
 If you find AnyMaker useful for your research and applications, please cite using this BibTeX:
 
 ```BibTeX
