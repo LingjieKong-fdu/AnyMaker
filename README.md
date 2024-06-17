@@ -7,14 +7,6 @@
 <div align="left">
 
 
-
-
-###  **Core Properties:**
-
-<p align="center">
-  <img src="https://github.com/kongkong12345/AnyMaker/blob/main/fig/advantage.png?raw=true" width="90%">
-</p>
-
 ###  **Core Properties:**
 
 1. **General field:**  Applicable to general objects, including but not limited to: human face, clothes, tools, animal, ...
