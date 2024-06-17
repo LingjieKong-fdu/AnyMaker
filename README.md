@@ -2,6 +2,10 @@
   
 ## AnyMaker: Zero-shot General Object Customization via Decoupled Dual-Level ID Injection 
 
+<p align="center">
+  <img src="https://github.com/kongkong12345/AnyMaker/blob/main/fig/diverse_applications.png?raw=true" width="90%">
+</p>
+
 </div>
 
 <div align="left">
@@ -14,20 +18,6 @@
 3. **User friendly:** Just one single reference image and a text prompt can meet the customization requirement.
 4. **Outstanding results:** Ensure high ID fidelity, flexible text editability and high quality.
 5. **Various applications:** Diverse applications such as general object customization, virtual try-on, ID-mixing, ...
-
----
-
-###  **Examples:**
-
-The AnyMaker has desirable performance on diverse customization applications, such as realistic human customization, cartoon character customization, ID mixing, story generation, virtual try-on, etc.
-
-<p align="center">
-  <img src="https://github.com/kongkong12345/AnyMaker/blob/main/fig/diverse_applications.png?raw=true" width="90%">
-</p>
-
-<p align="center">
-  <img src="https://github.com/kongkong12345/AnyMaker/blob/main/fig/idconsistent.png?raw=true" width="90%">
-</p>
 
 ---
 
@@ -63,7 +53,15 @@ The AnyMaker exhibits outstanding capabilities of high-quality customization for
   <img src="https://github.com/kongkong12345/AnyMaker/blob/main/fig/compare.png?raw=true" width="90%">
 </p>
 
+---
 
+###  **Examples:**
+
+The AnyMaker has desirable performance on diverse customization applications, such as realistic human customization, cartoon character customization, ID mixing, story generation, virtual try-on, etc.
+
+<p align="center">
+  <img src="https://github.com/kongkong12345/AnyMaker/blob/main/fig/idconsistent.png?raw=true" width="90%">
+</p>
 
 ---
 
