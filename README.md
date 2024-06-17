@@ -53,8 +53,6 @@ The AnyMaker exhibits outstanding capabilities of high-quality customization for
   <img src="https://github.com/kongkong12345/AnyMaker/blob/main/fig/compare.png?raw=true" width="80%">
 </p>
 
----
-
 
 
 
