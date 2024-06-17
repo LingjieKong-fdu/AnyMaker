@@ -39,6 +39,8 @@ To promot the research of the general object customization, we construct the fir
 
 ###  **Various Applications:**
 
+The AnyMaker has desirable performance on diverse customization applications, such as realistic human customization, cartoon character customization, ID mixing, story generation, virtual try-on, etc.
+
 <p align="center">
   <img src="https://github.com/kongkong12345/AnyMaker/blob/main/fig/diverse_applications.png?raw=true" width="90%">
 </p>
@@ -51,6 +53,8 @@ To promot the research of the general object customization, we construct the fir
 
 
 ###  **Comparisons with Previous Works:**
+
+The AnyMaker exhibits outstanding capabilities of high-quality customization for general objects, and even beat task-specialized methods in the specific domains, such as human customization and virtual try-on.
 
 <p align="center">
   <img src="https://github.com/kongkong12345/AnyMaker/blob/main/fig/compare.png?raw=true" width="90%">
@@ -68,12 +72,7 @@ To promot the research of the general object customization, we construct the fir
 Codes and dataset will be released soon!
 
 # BibTeX
-If you find PhotoMaker useful for your research and applications, please cite using this BibTeX:
+If you find AnyMaker useful for your research and applications, please cite using this BibTeX:
 
 ```BibTeX
-@inproceedings{li2023photomaker,
-  title={PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding},
-  author={Li, Zhen and Cao, Mingdeng and Wang, Xintao and Qi, Zhongang and Cheng, Ming-Ming and Shan, Ying},
-  booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year={2024}
-}
+xxx
