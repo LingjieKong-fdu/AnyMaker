@@ -16,6 +16,20 @@
 
 ---
 
+###  **Various Applications:**
+
+The AnyMaker has desirable performance on diverse customization applications, such as realistic human customization, cartoon character customization, ID mixing, story generation, virtual try-on, etc.
+
+<p align="center">
+  <img src="https://github.com/kongkong12345/AnyMaker/blob/main/fig/diverse_applications.png?raw=true" width="90%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/kongkong12345/AnyMaker/blob/main/fig/idconsistent.png?raw=true" width="90%">
+</p>
+
+---
+
 
 ###  **Method Framework:**
 
@@ -37,19 +51,7 @@ To promot the research of the general object customization, we construct the fir
 
 ---
 
-###  **Various Applications:**
 
-The AnyMaker has desirable performance on diverse customization applications, such as realistic human customization, cartoon character customization, ID mixing, story generation, virtual try-on, etc.
-
-<p align="center">
-  <img src="https://github.com/kongkong12345/AnyMaker/blob/main/fig/diverse_applications.png?raw=true" width="90%">
-</p>
-
-<p align="center">
-  <img src="https://github.com/kongkong12345/AnyMaker/blob/main/fig/idconsistent.png?raw=true" width="90%">
-</p>
-
----
 
 
 ###  **Comparisons with Previous Works:**
