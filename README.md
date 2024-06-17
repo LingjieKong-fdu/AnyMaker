@@ -6,13 +6,14 @@
 
 <div align="left">
 
+
+
+
 ###  **Core Properties:**
 
-1. **General field:**  Applicable to customization for general objects, including but not limited to: human face, clothes, artificial tools, animal, ...
-2. **Fast generation:** Achieve object customization within seconds, without any further fine-tuning.
-3. **User friendly:** Just one single reference image and a text prompt can meet the customization requirement.
-4. **Outstanding results:** Ensure high ID fidelity, flexible text editability and high quality.
-5. **Various applications:** Diverse applications such as general object customization, virtual try-on, ID-mixing, ...
+<p align="center">
+  <img src="https://github.com/kongkong12345/AnyMaker/blob/main/fig/advantage.png?raw=true" width="90%">
+</p>
 
 ---
 
