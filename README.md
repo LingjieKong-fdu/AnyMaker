@@ -3,7 +3,7 @@
 ## AnyMaker: Zero-shot General Object Customization via Decoupled Dual-Level ID Injection 
 
 <p align="center">
-  <img src="https://github.com/kongkong12345/AnyMaker/blob/main/fig/diverse_applications.png?raw=true" width="90%">
+  <img src="https://github.com/kongkong12345/AnyMaker/blob/main/fig/overview-new.png?raw=true" width="90%">
 </p>
 
 </div>
@@ -37,7 +37,7 @@ AnyMaker consists of three crucial ID processing modules: General ID Extraction 
 
 ###  **Comparisons with Previous Works:**
 
-The AnyMaker exhibits outstanding capabilities of high-quality customization for general objects, and even beat task-specialized methods in the specific domains, such as human customization and virtual try-on.
+The AnyMaker exhibits outstanding capabilities of high-quality customization for general objects, and even beat task-specialized methods in the specific domains, such as human customization and virtual try-on, in terms of ID fidelity and text editability.
 
 <p align="center">
   <img src="https://github.com/kongkong12345/AnyMaker/blob/main/fig/compare.png?raw=true" width="80%">
