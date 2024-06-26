@@ -68,11 +68,9 @@ Codes and dataset will be released soon!
 If you find AnyMaker useful for your research and applications, please cite using this BibTeX:
 
 ```BibTeX
-@misc{kong2024anymaker,
-      title={AnyMaker: Zero-shot General Object Customization via Decoupled Dual-Level ID Injection}, 
-      author={Lingjie Kong and Kai Wu and Xiaobin Hu and Wenhui Han and Jinlong Peng and Chengming Xu and Donghao Luo and Jiangning Zhang and Chengjie Wang and Yanwei Fu},
-      year={2024},
-      eprint={2406.11643},
-      archivePrefix={arXiv},
-      primaryClass={id='cs.CV' full_name='Computer Vision and Pattern Recognition' is_active=True alt_name=None in_archive='cs' is_general=False description='Covers image processing, computer vision, pattern recognition, and scene understanding. Roughly includes material in ACM Subject Classes I.2.10, I.4, and I.5.'}
+@article{kong2024anymaker,
+  title={AnyMaker: Zero-shot General Object Customization via Decoupled Dual-Level ID Injection},
+  author={Kong, Lingjie and Wu, Kai and Hu, Xiaobin and Han, Wenhui and Peng, Jinlong and Xu, Chengming and Luo, Donghao and Zhang, Jiangning and Wang, Chengjie and Fu, Yanwei},
+  journal={arXiv preprint arXiv:2406.11643},
+  year={2024}
 }
