@@ -60,7 +60,7 @@ To promot the research of the general object customization, we construct the fir
 
 </div>
 
-##  Statement
+##  Updates
 
 Codes and dataset will be released soon!
 
