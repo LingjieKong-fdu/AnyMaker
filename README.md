@@ -1,9 +1,7 @@
 <div align="center">
   
 ## AnyMaker: Zero-shot General Object Customization via Decoupled Dual-Level ID Injection 
-[[Paper](https://arxiv.org/abs/2406.11643)] &emsp; [[Project Page](https://lingjiekong-fdu.github.io/)] &emsp;
  <a href='https://arxiv.org/abs/2406.11643'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> <a href='https://lingjiekong-fdu.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
- Fudan University &nbsp; | &nbsp;  Tencent Youtu Lab
 
 
 <p align="center">
